@@ -1,0 +1,71 @@
+#topic{
+    color: rgb(255, 217, 0);
+    text-align: center;
+    font-size: 56px;
+    border: whitesmoke;
+    border-style: double;
+}
+body{
+   background-color:lavender;
+    color:black;
+    font-family: cursive;
+}
+.product-head{ 
+    text-align: center;
+    color:rgb(5, 199, 199);
+}
+.top{
+    background-color: black;
+}
+#contact-info{
+    background-color: black;
+}
+.number{
+    text-align: center;
+}
+.productone{
+    font-family: 'Times New Roman', Times, serif;
+}
+.productpic{
+    white-space: nowrap;
+}
+a:hover {
+    color:darkorange;
+}
+.contactus{
+    background:cornsilk;
+  border: 1px solid red;
+  border-radius: 3px;
+  color:black;
+  width: 400px;
+  display: inline-block;
+  margin: 0px 0px;
+  padding: 14px;
+  text-decoration: none;
+}
+.share{
+    background:cornsilk;
+  border: 1px solid red;
+  border-radius: 3px;
+  width: 400px;
+  color:black;
+  display: inline-block;
+  margin: 0px 0px;
+  margin-left: 15px;
+  padding: 14px;
+  text-decoration: none;
+}
+.location{
+    width: 400px;
+    background:cornsilk;
+  border: 1px solid red;
+  border-radius: 3px;
+  color:black;
+  display: inline-block;
+  margin: 0px 0px;
+  padding: 14px;
+  text-decoration: none;
+}
+.bracket{
+    background-color:black;
+}
